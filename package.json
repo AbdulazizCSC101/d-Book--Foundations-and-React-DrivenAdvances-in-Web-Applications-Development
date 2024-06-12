@@ -1,0 +1,15 @@
+{
+  "name": "d-book--foundations-and-react-drivenadvances-in-web-applications-development",
+  "version": "1.0.0",
+  "description": "Book: Foundations and React-Driven Advances in Web Applications Development",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/AbdulazizCSC101/d-Book--Foundations-and-React-DrivenAdvances-in-Web-Applications-Development.git)"
+  },
+  "author": "Abdul Ibrahim",
+  "license": "MIT"
+}
